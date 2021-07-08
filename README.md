@@ -11,7 +11,7 @@ The management port (TCP 541) must be open and reachable.
 
 **Example:**
 
-./fortigate.py 192.0.2.1
+./fortigate.py 192.0.2.1<br>
 Fortigate model and s/n: FGTxxxxxxxxxxxxx, device certificate expiry: Jan 01 01:00:00 2030 GMT
 
 
